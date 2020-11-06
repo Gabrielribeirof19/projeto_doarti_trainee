@@ -1,1 +1,0 @@
-# projeto_doarti_trainee
