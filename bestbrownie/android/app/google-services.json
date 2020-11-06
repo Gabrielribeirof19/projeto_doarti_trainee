@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "460278335521",
+    "firebase_url": "https://bd-brownie2.firebaseio.com",
+    "project_id": "bd-brownie2",
+    "storage_bucket": "bd-brownie2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460278335521:android:ae6619b73ed5e669ebbb60",
+        "android_client_info": {
+          "package_name": "com.example.bestbrownie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460278335521-pejqshke4rv15177vc9bhg7fvh3hdk2h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMWo4_ipVkOuqejg_CcQlYpPf9qNy08rg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460278335521-pejqshke4rv15177vc9bhg7fvh3hdk2h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
